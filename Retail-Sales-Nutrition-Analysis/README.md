@@ -1,4 +1,4 @@
-Task 1: Exploratory Data Analysis (EDA)
+Task 1:Retail Sales & Nutrition Analysis
 
 *.Overview
 
